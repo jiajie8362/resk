@@ -1,4 +1,4 @@
-module git.imooc.com/wendell1000/resk
+module github.com/vonnwang/resk
 
 go 1.12
 
@@ -27,7 +27,7 @@ replace (
 )
 
 require (
-	git.imooc.com/wendell1000/infra v0.1.4
+	github.com/vonnwang/infra v0.1.4
 	github.com/go-playground/locales v0.12.1
 	github.com/go-playground/universal-translator v0.16.0
 	github.com/go-redsync/redsync v1.2.0

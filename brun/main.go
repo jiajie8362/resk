@@ -2,9 +2,9 @@ package main
 
 import (
 	"flag"
-	"git.imooc.com/wendell1000/infra"
-	"git.imooc.com/wendell1000/infra/base"
-	_ "git.imooc.com/wendell1000/resk"
+	"github.com/vonnwang/infra"
+	"github.com/vonnwang/infra/base"
+	_ "github.com/vonnwang/resk"
 	_ "github.com/go-sql-driver/mysql"
 	log "github.com/sirupsen/logrus"
 	"github.com/tietang/props/consul"

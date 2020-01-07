@@ -1,7 +1,7 @@
 package gorpc
 
 import (
-	"git.imooc.com/wendell1000/resk/services"
+	"github.com/vonnwang/resk/services"
 )
 
 type EnvelopeRpc struct {

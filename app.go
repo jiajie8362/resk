@@ -1,14 +1,14 @@
 package resk
 
 import (
-	_ "git.imooc.com/wendell1000/account/core/accounts"
-	"git.imooc.com/wendell1000/infra"
-	"git.imooc.com/wendell1000/infra/base"
-	"git.imooc.com/wendell1000/resk/apis/gorpc"
-	_ "git.imooc.com/wendell1000/resk/apis/gorpc"
-	_ "git.imooc.com/wendell1000/resk/apis/web"
-	_ "git.imooc.com/wendell1000/resk/core/envelopes"
-	"git.imooc.com/wendell1000/resk/jobs"
+	_ "github.com/vonnwang/account/core/accounts"
+	"github.com/vonnwang/infra"
+	"github.com/vonnwang/infra/base"
+	"github.com/vonnwang/resk/apis/gorpc"
+	_ "github.com/vonnwang/resk/apis/gorpc"
+	_ "github.com/vonnwang/resk/apis/web"
+	_ "github.com/vonnwang/resk/core/envelopes"
+	"github.com/vonnwang/resk/jobs"
 )
 
 func init() {

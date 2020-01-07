@@ -3,9 +3,9 @@ package envelopes
 import (
 	"context"
 	"errors"
-	acservices "git.imooc.com/wendell1000/account/services"
-	"git.imooc.com/wendell1000/infra/base"
-	"git.imooc.com/wendell1000/resk/services"
+	acservices "github.com/vonnwang/account/services"
+	"github.com/vonnwang/infra/base"
+	"github.com/vonnwang/resk/services"
 	"github.com/shopspring/decimal"
 	log "github.com/sirupsen/logrus"
 	"sync"

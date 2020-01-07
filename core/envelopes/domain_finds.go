@@ -1,7 +1,7 @@
 package envelopes
 
 import (
-	"git.imooc.com/wendell1000/infra/base"
+	"github.com/vonnwang/infra/base"
 	"github.com/tietang/dbx"
 )
 

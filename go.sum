@@ -1,10 +1,10 @@
 git.apache.org/thrift.git v0.0.0-20180902110319-2566ecd5d999/go.mod h1:fPE2ZNJGynbRyZ4dJvy6G277gSllfV2HJqblrnkyeyg=
-git.imooc.com/wendell1000/account v0.1.2 h1:zE6wmem3DJUnYwlcw4b9dOR8zK0QdvkpqODrsBxXlGM=
-git.imooc.com/wendell1000/account v0.1.2/go.mod h1:XiyvjuNS5Vek8V6LVg38pJPuWXyi4veDquaX9kiboSU=
-git.imooc.com/wendell1000/infra v0.1.1 h1:Fwm1QNy/mRAbqcvg7ZktxGuJGJK+ohUQz2/C37qcPDs=
-git.imooc.com/wendell1000/infra v0.1.1/go.mod h1:eCJx3QjdptYIepVId0SC4GlOMfn245qYPrcjXwepmBA=
-git.imooc.com/wendell1000/infra v0.1.3 h1:ldw+0tzP5LCfZi32qhgVU1+1UgQVDUSddAvHFXoj1cw=
-git.imooc.com/wendell1000/infra v0.1.3/go.mod h1:qPR34FoVwr2emtX3ep3Yj+QUZJwmD6FdjgojVe10fFw=
+github.com/vonnwang/account v0.1.2 h1:zE6wmem3DJUnYwlcw4b9dOR8zK0QdvkpqODrsBxXlGM=
+github.com/vonnwang/account v0.1.2/go.mod h1:XiyvjuNS5Vek8V6LVg38pJPuWXyi4veDquaX9kiboSU=
+github.com/vonnwang/infra v0.1.1 h1:Fwm1QNy/mRAbqcvg7ZktxGuJGJK+ohUQz2/C37qcPDs=
+github.com/vonnwang/infra v0.1.1/go.mod h1:eCJx3QjdptYIepVId0SC4GlOMfn245qYPrcjXwepmBA=
+github.com/vonnwang/infra v0.1.3 h1:ldw+0tzP5LCfZi32qhgVU1+1UgQVDUSddAvHFXoj1cw=
+github.com/vonnwang/infra v0.1.3/go.mod h1:qPR34FoVwr2emtX3ep3Yj+QUZJwmD6FdjgojVe10fFw=
 github.com/BurntSushi/toml v0.3.1 h1:WXkYYl6Yr3qBf1K79EBnL4mak0OimBfB0XUf9Vl28OQ=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=

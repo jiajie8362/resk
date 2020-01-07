@@ -1,9 +1,9 @@
 package envelopes
 
 import (
-	acservices "git.imooc.com/wendell1000/account/services"
-	"git.imooc.com/wendell1000/resk/services"
-	_ "git.imooc.com/wendell1000/resk/testx"
+	acservices "github.com/vonnwang/account/services"
+	"github.com/vonnwang/resk/services"
+	_ "github.com/vonnwang/resk/testx"
 	"github.com/segmentio/ksuid"
 	"github.com/shopspring/decimal"
 	. "github.com/smartystreets/goconvey/convey"

@@ -3,7 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"git.imooc.com/wendell1000/resk/services"
+	"github.com/vonnwang/resk/services"
 )
 
 func main() {

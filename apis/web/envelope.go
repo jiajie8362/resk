@@ -1,9 +1,9 @@
 package web
 
 import (
-	"git.imooc.com/wendell1000/infra"
-	"git.imooc.com/wendell1000/infra/base"
-	"git.imooc.com/wendell1000/resk/services"
+	"github.com/vonnwang/infra"
+	"github.com/vonnwang/infra/base"
+	"github.com/vonnwang/resk/services"
 	"github.com/kataras/iris"
 )
 

@@ -2,7 +2,7 @@ package envelopes
 
 import (
 	"database/sql"
-	"git.imooc.com/wendell1000/resk/services"
+	"github.com/vonnwang/resk/services"
 	"github.com/shopspring/decimal"
 	"time"
 )

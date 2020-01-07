@@ -2,8 +2,8 @@ package jobs
 
 import (
 	"fmt"
-	"git.imooc.com/wendell1000/infra"
-	"git.imooc.com/wendell1000/resk/core/envelopes"
+	"github.com/vonnwang/infra"
+	"github.com/vonnwang/resk/core/envelopes"
 	"github.com/go-redsync/redsync"
 	"github.com/gomodule/redigo/redis"
 	log "github.com/sirupsen/logrus"

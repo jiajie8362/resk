@@ -1,9 +1,9 @@
 package test
 
 import (
-	"git.imooc.com/wendell1000/infra/gorpc"
-	"git.imooc.com/wendell1000/infra/lb"
-	"git.imooc.com/wendell1000/resk/services"
+	"github.com/vonnwang/infra/gorpc"
+	"github.com/vonnwang/infra/lb"
+	"github.com/vonnwang/resk/services"
 	"github.com/shopspring/decimal"
 	"github.com/sirupsen/logrus"
 	. "github.com/smartystreets/goconvey/convey"

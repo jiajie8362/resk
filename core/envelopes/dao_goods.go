@@ -1,7 +1,7 @@
 package envelopes
 
 import (
-	"git.imooc.com/wendell1000/resk/services"
+	"github.com/vonnwang/resk/services"
 	"github.com/shopspring/decimal"
 	log "github.com/sirupsen/logrus"
 	"github.com/tietang/dbx"
